@@ -1,0 +1,13 @@
+# Ignoring the Virtual Environment
+venv/
+env/
+
+# Ignoring Secret Keys and Tokens
+.env
+
+# Bypassing Python's system cache
+__pycache__/
+*.pyc
+
+# Ignore Excel files created by the bot
+*.xlsx
